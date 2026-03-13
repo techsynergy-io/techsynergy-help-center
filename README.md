@@ -20,7 +20,7 @@ Browse the marketplace, apply to projects, and track your application status.
 Post projects, define requirements, and choose the right project type for your needs.
 
 ### [Hiring & Kickoff](hiring-and-kickoff/)
-Select talent, fund milestones, and kick off your project.
+Select freelancers, fund milestones, and kick off your project.
 
 ### [Workspace & Delivery](workspace-and-delivery/)
 Manage active projects, submit deliverables, and approve completed work.
