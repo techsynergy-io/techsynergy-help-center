@@ -44,9 +44,5 @@ Token fees are generally non-refundable. Refer to the refund policy for details.
 
 ## Related articles
 
-- [Creating Your TechSynergy Account](./creating-your-techsynergy-account.md)
+- [Creating Your TechSynergy Account](../getting-started/creating-your-account.md)
 - [Completing Your Freelancers Profile](./complete-your-freelancer-profile.md)
-- [Skill Assessments and Verification](../skills-and-assessments/skill-assessments-and-verification.md)
-- [Uploading Your Portfolio](./uploading-your-portfolio.md)
-- [Keeping Your Freelancers Account Secure](../security-and-privacy/keeping-your-account-secure.md)
-- [Understanding Token Fees and Payments](../payments-and-wallet/understanding-token-fees-and-payments.md)

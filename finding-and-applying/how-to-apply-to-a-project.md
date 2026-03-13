@@ -50,11 +50,10 @@
 
 ### Related Articles
 
-- Completing Your Freelancer Profile
-- Understanding Skill Assessments
-- Uploading Your Portfolio
-- Tracking Project Applications
-- Communicating with Clients
+- [Completing Your Freelancer Profile](../accounts-and-profiles/complete-your-freelancer-profile.md)
+- [Understanding Skill Assessments](../skill-scoring/taking-your-first-skill-assessment.md)
+- [Tracking Project Applications](./application-statuses.md)
+- [Communicating with Clients](./communication-guidelines.md)
 - [Understanding application statuses](./application-statuses.md)
 - [Negotiating terms with clients](./negotiate-terms-with-clients.md)
 

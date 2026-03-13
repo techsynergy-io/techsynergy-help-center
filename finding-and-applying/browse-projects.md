@@ -32,7 +32,6 @@
 
 ### Related articles
 
-- Understanding the Skill Spider Graph
-- Setting up your profile visibility
+- [Understanding the Skill Spider Graph](../skill-scoring/understanding-the-spider-graph.md)
 
 **Last updated:** January 7, 2026 | v2.4.0 (Stable)

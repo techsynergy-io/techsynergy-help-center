@@ -73,7 +73,6 @@ Regularly update your profile by:
 ## Related Articles
 
 - [Optimizing Your Bio for Visibility](./optimizing-your-bio-for-seo.md)
-- [Taking Your First Skill Assessment](../skills-and-assessments/taking-your-first-skill-assessment.md)
+- [Taking Your First Skill Assessment](../skill-scoring/taking-your-first-skill-assessment.md)
 - [Verification Standards for Freelancer](./verification-standards.md)
-- [Understanding the Spider Graph](../skills-and-assessments/understanding-the-spider-graph.md)
-- [Responding to Project Opportunities](../projects-and-contracts/responding-to-project-opportunities.md)
+- [Understanding the Spider Graph](../skill-scoring/understanding-the-spider-graph.md)

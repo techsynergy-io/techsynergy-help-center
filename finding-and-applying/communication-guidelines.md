@@ -61,8 +61,7 @@ Within 24 hours is recommended for professionalism and client trust.
 
 ## Related articles
 
-- Reporting Unauthorized Account Activity
-- Negotiating Terms with Clients
-- Managing Projects Safely on TechSynergy
+- [Reporting Unauthorized Account Activity](../trust-and-safety/report-unauthorized-account-activity.md)
+- [Negotiating Terms with Clients](./negotiate-terms-with-clients.md)
 
 **Last updated:** 13 January 2026 — Freelancers Communication v1.0

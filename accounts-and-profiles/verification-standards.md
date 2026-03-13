@@ -74,8 +74,8 @@ No, but verified Freelancer are more visible and trusted by businesses, increasi
 
 ## Related Articles
 
-- [Understanding the Spider Graph and Skill Points](../skills-and-assessments/understanding-the-spider-graph.md)
-- [Taking Your First Skills Assessment](../skills-and-assessments/taking-your-first-skill-assessment.md)
+- [Understanding the Spider Graph and Skill Points](../skill-scoring/understanding-the-spider-graph.md)
+- [Taking Your First Skills Assessment](../skill-scoring/taking-your-first-skill-assessment.md)
 - [Optimizing Your Profile for Visibility](./optimizing-your-bio-for-seo.md)
 
 Last updated: 13 January 2026 -- Freelancers Verification v1.0

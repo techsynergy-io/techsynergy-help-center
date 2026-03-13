@@ -64,9 +64,7 @@ Response times vary, but reports are reviewed as quickly as possible.
 
 ## Related Articles
 
-- Using Google Sign-In as a Freelancers
-- Resetting Your Account Password
-- Recognizing Phishing Messages
-- Keeping Your Freelancers Profile Secure
+- [Safety and Fraud Prevention Tips](../trust-and-safety/safety-and-fraud-prevention.md)
+- [Logging In and Account Access](../getting-started/logging-in-and-account-access.md)
 
 **Last updated:** 13 January 2026 — Core Platform (Pre-Support Release)

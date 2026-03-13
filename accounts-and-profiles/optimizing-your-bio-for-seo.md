@@ -113,9 +113,7 @@ Fix: Add specifics like tools, industries, and real results.
 
 ## Related articles
 
-- [Adding Skills to Your Profile](../skills-and-assessments/adding-skills-to-your-profile.md)
-- [How to Improve Your Skill Score](../skills-and-assessments/how-to-improve-your-skill-score.md)
-- [Understanding the Spider Graph](../skills-and-assessments/understanding-the-spider-graph.md)
-- [Getting Your Skills Verified](../skills-and-assessments/getting-your-skills-verified.md)
+- [How to Improve Your Skill Score](../skill-scoring/how-to-improve-your-skill-score.md)
+- [Understanding the Spider Graph](../skill-scoring/understanding-the-spider-graph.md)
 
 Last updated: 13 January 2026 -- Profile Optimization v1.0

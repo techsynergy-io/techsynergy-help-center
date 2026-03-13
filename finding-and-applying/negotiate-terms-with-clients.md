@@ -87,7 +87,5 @@ Yes. Verified skills and strong reviews increase trust and support higher rates.
 
 ## Related articles
 
-- How to Price Your Services
-- Communicating Effectively with Clients
-- Managing Scope and Revisions
-- Getting Paid for Completed Work
+- [Communicating Effectively with Clients](./communication-guidelines.md)
+- [Getting Paid for Completed Work](../workspace-and-delivery/get-paid-after-work-approval.md)

@@ -38,7 +38,7 @@ Ensure you have added at least one "Work Experience" entry.
 ## Related articles
 
 - [Optimizing your bio for SEO](./optimizing-your-bio-for-seo.md)
-- [How to pass skill assessments](../skills-and-assessments/how-to-pass-skill-assessments.md)
+- [How to pass skill assessments](../skill-scoring/how-to-pass-skill-assessments.md)
 - [Managing your profile visibility](./managing-your-profile.md)
 
 Last updated: January 7, 2026 | v2.4.0 (Stable)

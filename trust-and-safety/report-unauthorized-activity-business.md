@@ -77,8 +77,7 @@ Response times vary, but reports are reviewed as quickly as possible.
 
 ## Related Articles
 
-- Resetting Your Account Password
-- Recognizing Phishing Messages
-- Keeping Your Business Account Secure
+- [Safety and Fraud Prevention Tips](../trust-and-safety/safety-and-fraud-prevention-business.md)
+- [Logging In and Account Access](../getting-started/logging-in-and-account-access.md)
 
 **Last updated:** 13 January 2026 — Core Platform (Pre-Support Release)

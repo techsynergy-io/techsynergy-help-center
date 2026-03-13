@@ -46,8 +46,8 @@ Once the business approves the milestone, TechSynergy automatically releases the
 
 ## Related Articles
 
-- Defining Skills & Requirements for Your Project
-- Choosing Between Milestone, Hourly, and Challenge Projects
+- [Defining Skills & Requirements for Your Project](../creating-projects/defining-skills-and-requirements.md)
+- [Choosing Between Milestone, Hourly, and Challenge Projects](../creating-projects/choosing-milestone-hourly-or-challenge.md)
 - [Downloading Deliverables and Files](../workspace-and-delivery/downloading-deliverables-and-files.md)
 
 **Last updated:** 13 January 2026 — Escrow Payments v1.0
